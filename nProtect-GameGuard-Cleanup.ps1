@@ -2,7 +2,7 @@
 .SYNOPSIS
 	Clean Up nProtect GameGuard Cache Files.
 .DESCRIPTION
-	This PowerShell script will use the common nProtect GameGuard paths to remove .erl files.
+	This PowerShell script will use the common nProtect GameGuard paths and remove all .erl files.
 .EXAMPLE
 	PS> ./nProtect-GameGuard-Cleanup.ps1
 .LINK
